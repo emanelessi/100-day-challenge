@@ -1,9 +1,4 @@
-<style>
-  body {
-    direction: rtl;
-    text-align: right;
-  }
-</style>
+
 
 ### HTML (HyperText Markup Language)
 

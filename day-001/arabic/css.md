@@ -1,9 +1,3 @@
-<style>
-  body {
-    direction: rtl;
-    text-align: right;
-  }
-</style>
 
 ### CSS (Cascading Style Sheets)
 
